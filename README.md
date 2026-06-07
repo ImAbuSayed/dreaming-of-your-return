@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dreaming-of-your-return/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Dreaming Of Your Return](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dreaming-of-your-return/) |
+| **Get License** | [Commercial Licensing for Dreaming Of Your Return](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dreaming-of-your-return/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can almost feel the heat of your skin
+> Tracing the shadows where the moonlight comes in
+> Every time I close my eyes, the fire burns
+> I’m lying in the dark, dreaming of your return
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
