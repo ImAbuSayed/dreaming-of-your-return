@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dreaming-of-your-return/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Dreaming Of Your Return](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dreaming-of-your-return/) |
+| **Get License** | [Obtain a Music License for Dreaming Of Your Return](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dreaming-of-your-return/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `1ff93b87a3dfdac5e81ab2a82b209c03edea54b149e4762b8a59852f77b980ba` |
 | **Timestamp** | June 07, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
